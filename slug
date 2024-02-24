@@ -1,0 +1,5 @@
+slug: regex_filter
+name: "Regex Filter"
+description: Filter text using Regular Expressions
+python:
+  entrypoint: regex_filter.py
